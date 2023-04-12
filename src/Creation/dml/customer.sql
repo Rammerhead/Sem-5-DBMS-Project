@@ -1,0 +1,21 @@
+INSERT INTO CUSTOMER (NAME, SSN) VALUES 
+	("Gavin Evans",642678172010),
+	("Casey Nguyen",205756332876),
+	("Carmelo Palacios",926081907532),
+	("Kali Romero",776183104965),
+	("Kyleigh Hood",698511393143),
+	("Capri Manning",356766542954),
+	("Rosie Rowe",666943600061),
+	("Amaya Powers",255480616135),
+	("Rylan Duke",529254496260),
+	("Amos Lynn",319891652977),
+	("Franklin Cano",268367037530),
+	("Kaliyah Rowland",395551966544),
+	("Heaven Fry",589593984426),
+	("Jovie Nixon",491229574924),
+	("Lina House",973061121380),
+	("Demetrius Livingston",323228497397),
+	("Samara Banks",949199785747),
+	("Kara Meyer",972205091512),
+	("Clara Santana",544061659760)
+;
